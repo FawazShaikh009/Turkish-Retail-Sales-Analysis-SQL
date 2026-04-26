@@ -1,19 +1,3 @@
-✅ Portfolio fixes done! Let's move.
-
----
-
-## ✅ Step 3 — Turkish Retail SQL README (15 minutes)
-
-This is the most impactful thing for recruiters clicking your GitHub. Raw SQL files with no context = ignored. A good README = they actually read your work.
-
-Go to **github.com/FawazShaikh009/Turkish-Retail-Sales-Analysis-SQL**
-
-Click **"Add a README"** or open existing `README.md` and click ✏️ edit.
-
-**Delete everything and paste this:**
-
----
-
 ```markdown
 # 🛒 Turkish Retail Sales Analysis — SQL (MySQL)
 
