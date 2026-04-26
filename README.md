@@ -23,12 +23,10 @@ Analyzed 19.4 million retail transactions (2017–2019) from a Turkish retail ch
 - Optimized analytical queries with targeted indexing strategy
 
 ## 📁 Repository Structure
-```
 ├── data_validation.sql       # Null checks, duplicates, date coverage
 ├── revenue_analysis.sql      # Revenue trends by category & region
 ├── pricing_analysis.sql      # Pricing patterns & anomalies
 ├── performance_optimization.sql  # Indexing & query tuning
-```
 
 ## 💡 What I Learned
 Handling 19M+ rows taught me real performance constraints — basic queries timed out without proper indexing. This project simulates a structured data warehousing environment and ETL ingestion pipeline.
